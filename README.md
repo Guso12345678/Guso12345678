@@ -75,14 +75,6 @@ I enjoy working across the full stack — from soldering sensors on a Raspberry 
  
 ---
  
-## GitHub stats
- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guso12345678&show_icons=true&theme=dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guso12345678&layout=compact&theme=dark&hide_border=true" height="150"/>
-</p>
----
- 
 ## Contact
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/guzman-perez-ab629a280)
